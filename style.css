@@ -1,0 +1,65 @@
+h1{
+    font-size: 55px;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(56, 111, 231);
+}
+
+.fb_para{
+    font-size: 24px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+
+button{
+    margin-top: 15px;
+}
+
+input{
+    margin-top: 15px;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px #b0b6bd;
+}
+
+a{
+    display: block;
+    text-decoration :solid;
+    margin-top: 10px;
+}
+
+.btn-success{
+    margin-left: 75px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.create-a{
+    display: inline;
+    color: black;
+    font-weight: bold;
+}
+
+.create-a:hover{
+    color: black;
+}
+
+.create-p{
+    text-align: center;
+}
+
+.col-md-4{
+    margin-top: 200px;
+}
+
+.col-md-3{
+    margin-top: 130px;
+}
